@@ -1,2 +1,4 @@
 # EfDS_assignments
 Essentials for Data Science assignments
+
+This repository includes the Python code developed by Vicky Gkika for the course assignments for "Essentials for Data Science" course of the MSc Statistics & Data Science in Leiden University, the Netherlands.
